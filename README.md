@@ -131,4 +131,6 @@ var userRepo = UnitOfWork.GetRepository<User, EmptyEnum>();
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c5ee47a79b6ef93bd10651743bab2b0d "githalytics.com")](http://githalytics.com/Pencroff/Dapper-DAL)
 
 
+# Update to Net6
+ use extra libs(Dapper/Dapper.Contrib) dependence,not the source include
 

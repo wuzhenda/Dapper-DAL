@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Dapper_DAL.SqlMaker;
+using Dapper.DAL.SqlMaker;
 using NUnit.Framework;
 
 namespace TestDapperDal.SqlMakerTest

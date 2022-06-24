@@ -1,5 +1,5 @@
-﻿using Dapper_DAL.Infrastructure.Enum;
-using Dapper_DAL.SqlMaker;
+﻿using Dapper.DAL.Infrastructure.Enum;
+using Dapper.DAL.SqlMaker;
 using NUnit.Framework;
 
 namespace TestDapperDal.SqlMakerTest

@@ -1,4 +1,4 @@
-﻿using Dapper_DAL.SqlMaker;
+﻿using Dapper.DAL.SqlMaker;
 using NUnit.Framework;
 
 namespace TestDapperDal.SqlMakerTest

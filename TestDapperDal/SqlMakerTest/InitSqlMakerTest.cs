@@ -1,6 +1,6 @@
 ﻿using System;
-using Dapper_DAL.SqlMaker;
-using Dapper_DAL.SqlMaker.Interfaces;
+using Dapper.DAL.SqlMaker;
+using Dapper.DAL.SqlMaker.Interfaces;
 using NUnit.Framework;
 
 namespace TestDapperDal.SqlMakerTest
